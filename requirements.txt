@@ -1,5 +1,5 @@
 speech_recognition
-googletrans
+googletrans==3.1.0a0
 textblob
 gtts
 playsound
