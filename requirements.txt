@@ -1,4 +1,4 @@
-speech_recognition
+speechrecognition
 googletrans==3.1.0a0
 textblob
 gtts
